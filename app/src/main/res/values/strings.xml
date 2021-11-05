@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Local Culture</string>
+    <string name="greet">Wellcome back</string>
+    <string name="name">Mohamad Rizal</string>
+    <string name="explorethebeauty">Explore The Beauty</string>
+    <string name="offer">Get special offers</string>
+    <string name="category">Category</string>
+    <string name="nearest">Nearest</string>
+    <string name="Placeholder">Placeholder</string>
+    <string name="provinsi">Provinsi</string>
+    <string name="Budaya">Budaya</string>
+    <string name="preserve">preserve local culture</string>
+</resources>
